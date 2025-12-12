@@ -2,7 +2,7 @@
 // Start the server
 
 ServerOptions.outDevices;
-Server.default.options.outDevice_("Altoparlanti MacBook Pro");
+Server.default.options.outDevice_("Dispositivo con uscite multiple");
 s.boot
 // Synth definition
 (
